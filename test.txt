@@ -1,4 +1,5 @@
 First row
+Edit with Git-Bash
 Second row
 Updated with Tortoise
 Third row
